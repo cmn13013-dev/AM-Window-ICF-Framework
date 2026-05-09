@@ -1,0 +1,29 @@
+PARAMETRIC SENSITIVITY TABLE
+w_HL vs Parameter Variations
+==============================
+
+Nominal parameters: r0=1.07 fm, a=0.63 fm, E/VCB=2.0, gamma=0.66
+
+Variation          | 20Ne+27Al | 20Ne+59Co | 20Ne+93Nb | 20Ne+197Au
+-------------------|-----------|-----------|-----------|------------
+Nominal            |   0.56    |   0.56    |   0.56    |    0.56
+r0 = 1.00 fm       |   0.56    |   0.56    |   0.56    |    0.57
+r0 = 1.15 fm       |   0.56    |   0.56    |   0.57    |    0.57
+a  = 0.55 fm       |   0.56    |   0.56    |   0.56    |    0.56
+a  = 0.75 fm       |   0.56    |   0.56    |   0.57    |    0.57
+E/VCB = 1.5        |   0.54    |   0.58    |   0.56    |    0.57
+E/VCB = 2.5        |   0.56    |   0.57    |   0.57    |    0.56
+gamma = 0.55       |   0.72    |   0.70    |   0.69    |    0.70
+gamma = 0.75       |   0.46    |   0.43    |   0.44    |    0.43
+
+SUMMARY:
+  Mass-independence: robust (spread ≤ 0.02 at any fixed parameter set)
+  Absolute value: fragile (range 0.43–0.72, dominated by gamma)
+  Dominant uncertainty source: gamma (empirical ratio l_cr/l_g)
+
+l_cr sensitivity:
+Variation          | 20Ne+27Al | 20Ne+59Co | 20Ne+93Nb | 20Ne+197Au
+Nominal            |    20     |    35     |    48     |     75
+min                |    15     |    26     |    36     |     55
+max                |    24     |    42     |    57     |     90
+spread             |     9     |    16     |    21     |     35
